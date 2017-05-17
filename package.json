@@ -1,0 +1,26 @@
+{
+  "name": "abv-bc-session1-oop",
+  "version": "1.0.0",
+  "description": "A Github repo containing a real-world problem modeled in javascript using OOP.",
+  "main": "app/oop.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Philipeano/javascript-demo-project.git"
+  },
+  "author": "Philip Newman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Philipeano/javascript-demo-project/issues"
+  },
+  "homepage": "https://github.com/Philipeano/javascript-demo-project#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
